@@ -1,0 +1,14 @@
+C:\Users\rasmu\source\repos\OOP - Generic Collection\OOP - Generic Collection\bin\Debug\net8.0\OOP - Generic Collection.exe
+C:\Users\rasmu\source\repos\OOP - Generic Collection\OOP - Generic Collection\bin\Debug\net8.0\OOP - Generic Collection.deps.json
+C:\Users\rasmu\source\repos\OOP - Generic Collection\OOP - Generic Collection\bin\Debug\net8.0\OOP - Generic Collection.runtimeconfig.json
+C:\Users\rasmu\source\repos\OOP - Generic Collection\OOP - Generic Collection\bin\Debug\net8.0\OOP - Generic Collection.dll
+C:\Users\rasmu\source\repos\OOP - Generic Collection\OOP - Generic Collection\bin\Debug\net8.0\OOP - Generic Collection.pdb
+C:\Users\rasmu\source\repos\OOP - Generic Collection\OOP - Generic Collection\obj\Debug\net8.0\OOP - Generic Collection.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rasmu\source\repos\OOP - Generic Collection\OOP - Generic Collection\obj\Debug\net8.0\OOP - Generic Collection.AssemblyInfoInputs.cache
+C:\Users\rasmu\source\repos\OOP - Generic Collection\OOP - Generic Collection\obj\Debug\net8.0\OOP - Generic Collection.AssemblyInfo.cs
+C:\Users\rasmu\source\repos\OOP - Generic Collection\OOP - Generic Collection\obj\Debug\net8.0\OOP - Generic Collection.csproj.CoreCompileInputs.cache
+C:\Users\rasmu\source\repos\OOP - Generic Collection\OOP - Generic Collection\obj\Debug\net8.0\OOP - Generic Collection.dll
+C:\Users\rasmu\source\repos\OOP - Generic Collection\OOP - Generic Collection\obj\Debug\net8.0\refint\OOP - Generic Collection.dll
+C:\Users\rasmu\source\repos\OOP - Generic Collection\OOP - Generic Collection\obj\Debug\net8.0\OOP - Generic Collection.pdb
+C:\Users\rasmu\source\repos\OOP - Generic Collection\OOP - Generic Collection\obj\Debug\net8.0\OOP - Generic Collection.genruntimeconfig.cache
+C:\Users\rasmu\source\repos\OOP - Generic Collection\OOP - Generic Collection\obj\Debug\net8.0\ref\OOP - Generic Collection.dll
