@@ -3,8 +3,14 @@ namespace OOP___Generic_Collection;
 
 class Program
 {
+    
+    
     static void Main(string[] args)
     {
+        // Programmer   : Rasmus Wenngren
+        // Program      : Fullstack .NET
+        // Course       : Promgrammering med C# och .NET
+        // Lab 7        : OOP - Generic Collection 
 
         string separator = "---------------------------------------";
         List<Employee> employees =
